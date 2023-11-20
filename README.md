@@ -2,7 +2,7 @@
 
 # 拾月菓購物網站後台
 
-![拾月菓購物網站後台封面](public\ShiyuGuoBackStageCover.jpg)
+![拾月菓購物網站後台封面](public/ShiyuGuoBackStageCover.jpg)
 
 </div>
 
